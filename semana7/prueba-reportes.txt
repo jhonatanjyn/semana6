@@ -1,0 +1,11 @@
+Al consultar la ruta GET /reportes, el servidor devuelve la lista de reportes que han sido registrados en memoria.
+
+Ejemplo de respuesta:
+
+[
+  {
+    "id": 1,
+    "tipo": "Infraestructura",
+    "descripcion": "Daño en alumbrado público"
+  }
+]
